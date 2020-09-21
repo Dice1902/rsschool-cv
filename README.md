@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://github.com/Dice1902/rsschool-cv/tree/gh-pages](https://github.com/Dice1902/rsschool-cv/tree/gh-pages)
