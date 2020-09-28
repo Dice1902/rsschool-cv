@@ -1,0 +1,49 @@
+body {
+    background-color: #727272;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box_center {
+    margin: 0px auto;
+    max-width: 1000px;
+    position: relative;
+    background-color: blanchedalmond;
+    margin-top: 50px;
+}
+.sidebar {
+    display: inline;
+    position: absolute;
+    background-color: #dda835;
+    right: 0px;
+    z-index: 1;
+    border: 5px solid #757575;
+    border-radius: 5px;
+    
+}
+.mainpage {
+    background-color: whitesmoke;
+    position: absolute;
+    left: 0;  
+    padding: 50px;
+    padding-right: 330px; 
+    max-width: 800px;
+}
+.name {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.specification {
+    text-align: center;
+}
+.contact_list {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+}
+.contact_list li {
+    padding-top: 15px;
+}
+.mainpage h2 {
+    color: #a09f9f;
+}
