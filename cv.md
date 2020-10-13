@@ -3,7 +3,7 @@
 ### Contact Info ###
 **E-mail:** dice1902@gmail.com 
 
-**Phone:**+375-29-898-00-00
+**Phone:**+375-29-898-04-04
 ### Personal Summary ###
 
 Specialist in the field of auto diagnostics and auto electronics repair. Experience in this direction ~8 years. Most of the knowledge and skills acquired independently in the processe of work and self-study.
